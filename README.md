@@ -1,5 +1,7 @@
 # Strands Agents: A Multi-Agent Framework for Building Intelligent Applications
 
+aws workshop url : https://catalog.workshops.aws/strands/
+
 Strands Agents is a powerful Python framework that enables developers to build sophisticated multi-agent systems with specialized capabilities including knowledge management, calculator functions, meta-tooling, and workflow orchestration. The framework provides seamless integration with external services and robust agent communication.
 
 The framework offers a modular architecture where specialized agents can work together to handle complex tasks. Key features include:
